@@ -1,0 +1,14 @@
+.App {
+  font-family: Arial;
+  width: 90%;
+  margin: auto;
+}
+
+a, a:visited, a:active {
+  text-decoration: none;
+  color: rgb(65, 207, 227);
+}
+
+a:hover {
+  color: rgb(117, 185, 255);
+}
